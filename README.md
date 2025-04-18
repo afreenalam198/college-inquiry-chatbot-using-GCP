@@ -39,10 +39,10 @@ An interactive, cloud-based chatbot designed to answer common student inquiries 
 
 ## 📸 Screenshots
 
-### Web App Interface
+### * Web App Interface
 ![Chatbot Screenshot](Screenshots/HomePage-UI.png)
 
-### ChatBot Interface
+### * ChatBot Interface
 ![Info Panel Screenshot](Screenshots/Chatbot-UI.png)
 
 
