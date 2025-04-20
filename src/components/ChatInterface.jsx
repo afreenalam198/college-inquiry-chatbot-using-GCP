@@ -19,7 +19,7 @@ function ChatInterface() {
     <>
       <df-messenger
         chat-title="college-inquiry-bot"
-        agent-id="87ac7cb8-71de-40c3-b9fb-12e586929b5b"
+        agent-id="" /*Replace with Diagflow messenger agent ID*/
         chat-icon="/chatLogo.svg"
         language-code="en"
       ></df-messenger>
